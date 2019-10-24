@@ -1,0 +1,4 @@
+Sobre espaçamentos:
+- height = altura;
+- width = percentual de ocupação;
+- margin = tamanho da margem.
